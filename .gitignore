@@ -1,0 +1,73 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Binaries
+/Binaries.*
+
+# Subfolders
+.vs/
+.vscode/
+**/packages/*
+packages/*
+obj/
+bin/
+Bin2/
+Debug*/
+Release*/
+Generated Files/
+Generated Files2/
+TestResults/
+node_modules/
+
+# VCS and build files
+*.user
+*.err
+*.wrn
+*.log
+*.lkl
+*.res
+*.tlog
+*.vspscc
+*.vssscc
+# Usually *.db are inside .vs/, just to be sure
+*.db
+*.VC.VC.opendb
+*.sdf
+*.suo
+
+# Object files
+*.obj
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.pch
+*.ipch
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Executables
+*.exe
+
+# Debug files
+*.idb
+*.pdb
+
+# VS generated files for resources designer efficiency.
+*.aps
+*.opendb
+
+# Microstation resources
+*.rsc
+
+# VB6 Windows cfg file
+*.vbw
+
